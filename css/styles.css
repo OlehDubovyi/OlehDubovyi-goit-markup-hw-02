@@ -1,15 +1,22 @@
+
+
+root {
+  --primary-text-color: #2e2f42;
+  --title-text-color: #434455;
+  --accent-color: #4D5AE5
+  --primary-white-color #ffffff;
+}
+
 body {
   font-family: "Raleway", sans-serif;
   font-family: "Roboto", sans-serif;
-  color: #434455;
-  background-color: #ffffff;
-}
-
-root {ihglhuguhgh
+  color: var(--title-text-color);
+  background-color: var(--primary-white-color);
 }
 
 .list {
   list-style: none;
+  agqfe
 }
 
 .link {
