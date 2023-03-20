@@ -75,7 +75,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--primary-text-color);
 }
 
 .header-link-portfolio {
@@ -84,7 +84,7 @@ body {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--primary-text-color);
 }
 
 .header-item {
@@ -99,7 +99,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: var(--title-text-color);
   position: absolute;
   width: 153px;
   height: 24px;
@@ -113,7 +113,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #434455;
+  color: var(--title-text-color);
   position: absolute;
   width: 151px;
   height: 24px;
@@ -130,7 +130,7 @@ body {
   font-style: normal;
   font-weight: 700;
 
-  color: #ffffff;
+  color: var(--primary-white-color);
 }
 
 .hero-button {
