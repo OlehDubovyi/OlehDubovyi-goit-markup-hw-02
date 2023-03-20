@@ -70,23 +70,6 @@ body {
   top: 24px;
 }
 
-.header-link-studio {
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  color: var(--primary-text-color);
-}
-
-.header-link-portfolio {
-  font-style: normal;
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 24px;
-  letter-spacing: 0.02em;
-  color: var(--primary-text-color);
-}
 
 .header-item {
 }
@@ -130,7 +113,6 @@ body {
 .hero-title {
   font-style: normal;
   font-weight: 700;
-
   color: var(--primary-white-color);
 }
 
