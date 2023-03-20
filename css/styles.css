@@ -30,7 +30,7 @@ body {
   height: 72px;
   left: 0px;
   top: 0px;
-  background: #ffffff;
+  background: var(--primary-white-color);
 }
 
 .header-navigation {
@@ -54,11 +54,11 @@ body {
 }
 
 .web {
-  color: #4d5ae5;
+  color: var(--accent-color);
 }
 
 .studio {
-  color: #2e2f42;
+  color: var(--primary-text-color);
 }
 
 .header-list {
